@@ -1,19 +1,11 @@
 #include <stdio.h>
 
 
-
-void imprimirBob(){
-}
-
-
-
 void imprimirAlice(){
 }
 
-
-
-
-
+void imprimirBob(){
+}
 
 int main(){
 
