@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#include "funcoes.h"
+
 void imprimirBob(){
   printf("Bob");
 }
@@ -9,6 +11,12 @@ void imprimirAlice(){
 }
 
 int main(){
+  imprimirAlice();
 
 	return 0;
 }
+
+void imprimirHelloWorld(){
+  printf("Hello World!");
+}
+
